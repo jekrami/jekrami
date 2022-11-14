@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jekrami
 - 👀 I’m interested in NetOps, DevOps
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Ci/CD
+- 🌱 I’m currently learning Python for Network Atomation
+- 💞️ I’m looking to collaborate on CI/CD
 - 📫 ekrmami@gmail.com
 
 <!---
