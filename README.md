@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jekrami
-- 👀 I’m interested in AI, DevOps
+- 👀 I’m interested in AI, trainig models, python
 - 🌱 I’m currently learning Python for AI Automation
 - 💞️ I’m looking to Data Engineering
 - 📫 ekrami@gmail.com
